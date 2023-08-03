@@ -1,0 +1,50 @@
+*/*Encabezado*/
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+        background-color: burlywood;
+        width: 100%;
+        height: 200px;
+        
+}
+
+h1 
+{
+    color: aqua;
+}
+
+/*Tipos de letras y estilos */
+
+.dias
+{
+    font-weight: 900;
+    text-align: center;
+    padding: 10px;
+    width: 90px;
+}
+
+.horas
+{
+    font-style: italic;
+}
+
+
+.menu
+{
+    display: inline;
+}
+
+.pie
+{
+    background-color: aqua;
+}
+
+.formulario
+{
+    border:solid black 7px;
+    width: 40%;
+}
